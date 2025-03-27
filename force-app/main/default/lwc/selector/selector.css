@@ -9,8 +9,8 @@ body {
 }
 .header, .footer{
   height: 50px;
-  background: rgb(255, 255, 255);
-  color: rgb(188, 15, 15);
+  background: rgb(125, 84, 84);
+  color: rgb(16, 2, 2);
   font-size: x-large;
   padding: 10px;
 }
