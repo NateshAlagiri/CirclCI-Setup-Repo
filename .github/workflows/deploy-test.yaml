@@ -5,9 +5,9 @@ on:
       - 'force-app/**'
 
 jobs:
-  Deploy-to-sffnoobs-environment:
+  Deploy-to-natetestenv-environment:
       runs-on: ubuntu-latest
-      environment: sffnoobs
+      environment: natetestenv
       steps:
           - uses: actions/setup-node@v3
             with:
